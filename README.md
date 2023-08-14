@@ -1,6 +1,6 @@
 # LeadScoringCaseStudy
 This repository has 4 files
-Lead Scoring.ipynb is the python commented file
-Lead Scoring Summary Report is the summary report in pdf format
-Lead Scoring Subjective Questions is the subjective questions and its answers in word format
-Lead Scoring Presentation is the presentation file in pdf format
+1) 'LeadScoring.ipynb' is the python commented file
+2) 'LeadScoringSummaryReport.pdf' is the summary report in pdf format
+3) 'LeadScoringSubjectiveQuestions.docx' is the subjective questions and its answers in word format
+4) 'LeadScoringPresentation.pdf' is the presentation file in pdf format
